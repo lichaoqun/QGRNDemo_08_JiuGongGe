@@ -1,0 +1,3 @@
+rootProject.name = 'QGRNDemo_08_JiuGongGe'
+
+include ':app'
